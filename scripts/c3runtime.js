@@ -5808,7 +5808,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.VKBridge.Acts.LeaderSave,
 		C3.Plugins.Mouse.Cnds.IsButtonDown,
 		C3.Plugins.VKBridge.Acts.LeaderBoardVKUI,
-		C3.Plugins.VKBridge.Acts.LeaderBoard,
 		C3.Plugins.System.Cnds.OnLoadFinished,
 		C3.Plugins.Audio.Acts.Preload,
 		C3.Plugins.LocalStorage.Acts.CheckItemExists,
